@@ -33,5 +33,5 @@ These projects were completed as a part of my studies at Noroff:
 
 ## 📫 Contact
 
-GitHub: https://github.com/HanneStray
-Email: hanhel55335@hotmail.com
+- GitHub: https://github.com/HanneStray
+- Email: hanhel55335@hotmail.com
